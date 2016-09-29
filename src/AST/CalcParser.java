@@ -64,7 +64,7 @@ public class CalcParser/*@bgen(jjtree)*/implements CalcParserTreeConstants, Calc
       jjtree.closeNodeScope(jjtn000, true);
     }
     }
-    throw new Error("Missing return statement in function");
+    throw new Error("Msing return statement in function");
   }
 
 /* ** Other nonterminals and their productions ** */
